@@ -1,0 +1,16 @@
+{
+  "name": "@regru/jqote2",
+  "version": "0.9.8",
+  "description": "Qote2 - jQuery's most powerful and versatile templating engine",
+  "main": "jquery.jqote2.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regru/jQote2.git"
+  },
+  "author": "aefxx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vyushkoff/jQote2/issues"
+  },
+  "homepage": "https://github.com/vyushkoff/jQote2#readme"
+}
